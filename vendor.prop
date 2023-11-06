@@ -86,8 +86,6 @@ ro.vendor.mtk_ultra_dimming_support=1
 persist.vendor.max.brightness=500
 ro.vendor.colorpick_adjust=true
 ro.vendor.cabc.enable=true
-debug.hwui.use_hint_manager=true
-debug.hwui.target_cpu_time_percent=30
 
 # Colors
 persist.sys.sf.color_saturation=1.1
